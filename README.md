@@ -32,13 +32,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+A cross platform application that allow you to change style and content of a page.
+
 2. What is an event?
+
+An event is an user action that takes place in a DOM. 
 
 3. What is an event listener?
 
+An event listener an object that can handle an event that is given by a event target.
+
 4. Why would we convert a NodeList into an Array?
 
+So that NodeList will be able to use methods like Arrays
+
 5. What is a component?
+
+A component is what brings HTML, CSS, and JavaScript together for the reuse in a website.S
 
 ### Git Set up
 
